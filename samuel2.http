@@ -1,0 +1,6 @@
+@samuel2_HostAddress = http://localhost:5296
+
+GET {{samuel2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
